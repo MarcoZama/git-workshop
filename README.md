@@ -1,1 +1,1 @@
-# git-workshop-siemens
+# git-workshop-siemens-central-repo
